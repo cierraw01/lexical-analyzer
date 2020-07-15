@@ -1,9 +1,9 @@
 # lexical-analyzer
 
    Lexical Analysis  
+   Completed for LASA Advanced CS course  
    Assignment: 170914 
-   Completed for LASA Advanced CS course
-  
+   
 One application of computers is the analysis of text.  There are variety of tools and approaches to perform this analysis.  The objective for this Lab is to create a small library of tools that can perform some of the basic tasks.  We will utilize what we have learned about C++ strings and functions to accomplish the lab. 
 
 Functions we will create are; 
